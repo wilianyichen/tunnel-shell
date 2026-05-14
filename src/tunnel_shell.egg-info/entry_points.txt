@@ -1,0 +1,2 @@
+[console_scripts]
+tunnel-shell = tunnelshell.cli:main
